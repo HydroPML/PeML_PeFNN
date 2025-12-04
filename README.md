@@ -5,23 +5,23 @@ We consider solving complex spatiotemporal dynamical systems governed by partial
 ## Experiments for Spatiotemporal PDEs
 After configuring the file path, run the code:
 
-'python experiments_NS_T20.py' for the NS experiment from  T=10 to T=20**
+'python experiments_NS_T20.py' for the NS experiment from  T=10 to T=20
    
-'python experiments_NS_T30.py' for the NS experiment from  T=10 to T=30**
+'python experiments_NS_T30.py' for the NS experiment from  T=10 to T=30
 
-'python experiments_NS_T40.py' for the NS experiment from  T=10 to T=40**
+'python experiments_NS_T40.py' for the NS experiment from  T=10 to T=40
 
-'python experiments_SWE.py' for the SWE experiment**
+'python experiments_SWE.py' for the SWE experiment
    
-'python experiments_Flood_T20.py' for the flood simulation with T=20**
+'python experiments_Flood_T20.py' for the flood simulation with T=20
 
-'python experiments_Flood_T40.py' for the flood simulation with T=40**
+'python experiments_Flood_T40.py' for the flood simulation with T=40
 
 ## Experiments for the super-resolution experiments
 Setting super=True, and run:
 
-'python experiments_NS_T30.py' for the super-resolution experiment of NS dataset**
+'python experiments_NS_T30.py' for the super-resolution experiment of NS dataset
 
-'python experiments_SWE_SR.py' for the super-resolution experiment of SWE dataset**
+'python experiments_SWE_SR.py' for the super-resolution experiment of SWE dataset
    
 **python experiments_NS_T30.py for the NS experiment from  T=10 to T=30**
